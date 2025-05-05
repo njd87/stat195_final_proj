@@ -1,1 +1,28 @@
-{'params': {'n_estimators': 1500, 'learning_rate': 0.01, 'max_depth': 3, 'subsample': 1.0, 'colsample_bytree': 1.0, 'reg_alpha': 0.1, 'reg_lambda': 10}, 'mean_mape': 0.0555191661684987, 'std_mape': 0.1007981423577881}
+----------------------------------------
+Best result for horizon 1
+Params: {'n_estimators': 2500, 'learning_rate': 0.01, 'max_depth': 3, 'subsample': 1.0, 'colsample_bytree': 0.8, 'reg_alpha': 1.0, 'reg_lambda': 10}
+Mean MAPE: 0.05743338447412959
+Std MAPE: 0.10494225449284893
+----------------------------------------
+
+----------------------------------------
+Best result for horizon 5
+Params: {'n_estimators': 2000, 'learning_rate': 0.01, 'max_depth': 3, 'subsample': 0.8, 'colsample_bytree': 0.8, 'reg_alpha': 1.0, 'reg_lambda': 1}
+Mean MAPE: 0.1013529567152475
+Std MAPE: 0.16414967217138435
+----------------------------------------
+
+----------------------------------------
+Best result for horizon 10
+Params: {'n_estimators': 2000, 'learning_rate': 0.01, 'max_depth': 3, 'subsample': 0.6, 'colsample_bytree': 0.6, 'reg_alpha': 0.0, 'reg_lambda': 10}
+Mean MAPE: 0.13986187553620436
+Std MAPE: 0.21017620328315526
+----------------------------------------
+
+----------------------------------------
+Best result for horizon 20
+Params: {'n_estimators': 1250, 'learning_rate': 0.01, 'max_depth': 3, 'subsample': 0.8, 'colsample_bytree': 1.0, 'reg_alpha': 0.0, 'reg_lambda': 1}
+Mean MAPE: 0.22124849858574347
+Std MAPE: 0.29612938658304794
+----------------------------------------
+
